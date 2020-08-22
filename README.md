@@ -13,5 +13,5 @@
 > Proffy é uma singela homenagem aos profissionais da educação, visto que, esse projeto foi idealizado pensando no dia <b>06 de agosto</b>.
 
 <h1 align="center">
-  <img alt="Proffy" src="./github/proffy.png"
+  <img alt="Proffy" src="./github/proffy.png"/>
 </h1>
